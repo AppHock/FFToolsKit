@@ -1,0 +1,16 @@
+PODS:
+  - FFToolsKit (0.0.1)
+
+DEPENDENCIES:
+  - FFToolsKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFToolsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFToolsKit: 8a54430140c7a92737487dbe1f554ea7a9ad2515
+
+PODFILE CHECKSUM: 2763aeaf6ba5bb110dbc50f3bc6bd0037483d9f0
+
+COCOAPODS: 1.7.5
