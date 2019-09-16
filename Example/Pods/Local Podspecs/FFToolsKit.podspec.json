@@ -18,5 +18,13 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "FFToolsKit/Classes/**/*"
+  "source_files": "FFToolsKit/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ],
+    "FMDB": [
+
+    ]
+  }
 }
